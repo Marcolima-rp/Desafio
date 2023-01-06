@@ -1,12 +1,10 @@
-# Desafio SRE
-
 # Desafio técnico SRE
 
 ## Sobre o 'desafio'
 
-Esse é um teste feito para conhecer um  pouco mais de cada candidato a vaga de SRE na MaisTodos. Não se trata de um teste objetivo, capaz de gerar uma nota ou uma taxa de acerto, mas sim de um estudo de caso com o propósito de conhecer os conhecimentos, experiências e modo de trabalhar de um candidato.
+Esse é um teste feito para conhecer um  pouco mais de cada candidato a vaga de SRE . Não se trata de um teste objetivo, capaz de gerar uma nota ou uma taxa de acerto, mas sim de um estudo de caso com o propósito de conhecer os conhecimentos, experiências e modo de trabalhar de um candidato.
 
-Sinta-se livre para desenvolver sua solução para o problema proposto e em caso de dúvidas entre em contato com devops@maistodos.com.br.
+Sinta-se livre para desenvolver sua solução para o problema proposto e em caso de dúvidas entre em contato com ###########.
 
 ## Alguns requisitos
 
